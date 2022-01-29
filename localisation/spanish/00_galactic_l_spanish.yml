@@ -1,0 +1,219 @@
+﻿l_spanish:
+ # Custom Resolutions
+
+ resolution_category_healthcare:0 "Organización Galáctica de la Salud"
+ 
+ resolution_healthcare_repeal_6:0 "§RDeroga la resolución $resolution_healthcare_6$§!."
+ resolution_healthcare_repeal_6_desc:0 "$resolution_healthcare_repeal_1_desc$"
+ resolution_healthcare_repeal_6_effect_success:0 "Deroga la resolución §Y$resolution_healthcare_6$§!."
+ 
+ resolution_healthcare_6:0 "Crear la Organización Galáctica de la Salud"
+ resolution_healthcare_6_desc:0 "La creación de una organización que supervise las nuevas enfermedades y ayude a los imperios menos afortunados beneficiará a todos."
+
+ resolution_healthcare_repeal_5:0 "§RDerogar $resolution_healthcare_5$§!"
+ resolution_healthcare_repeal_5_desc:0 "$resolution_healthcare_repeal_1_desc$"
+ resolution_healthcare_repeal_5_effect_success:0 "Deroga la resolución §Y$resolution_healthcare_5$§!."
+
+ resolution_healthcare_5:0 "Clonaciones medicas"
+ resolution_healthcare_5_desc:0 "Podemos utilizar la tecnología de clonación para crear órganos que se adapten perfectamente a cada receptor, lo que reduce en gran medida el riesgo de trasplantes de órganos."
+
+ resolution_healthcare_repeal_4:0 "§RDerogar $resolution_healthcare_4$§!"
+ resolution_healthcare_repeal_4_desc:0 "$resolution_healthcare_repeal_1_desc$"
+ resolution_healthcare_repeal_4_effect_success:0 "Deroga la resolución §Y$resolution_healthcare_4$§!."
+ 
+ resolution_healthcare_4:0 "Adoptar la tecnologia Hypospray"
+ resolution_healthcare_4_desc:0 "La nueva tecnología Hypospray, si bien es más cara que las agujas tradicionales, se puede utilizar para administrar inyecciones y vacunas a través de la ropa y sin riesgo de contaminación cruzada."
+
+ resolution_healthcare_repeal_3:0 "§RDerogar $resolution_healthcare_3$§!"
+ resolution_healthcare_repeal_3_desc:0 "$resolution_healthcare_repeal_1_desc$"
+ resolution_healthcare_repeal_3_effect_success:0 "Deroga la resolución §Y$resolution_healthcare_3$§!."
+ 
+ resolution_healthcare_3:0 "Seguro médico obligatorio"
+ resolution_healthcare_3_desc:0 "Todos deben ser elegibles para recibir tratamiento médico, por lo tanto todos deben tener seguro médico."
+
+ resolution_healthcare_repeal_2:0 "§RDerogar $resolution_healthcare_2$§!"
+ resolution_healthcare_repeal_2_desc:0 "$resolution_healthcare_repeal_1_desc$"
+ resolution_healthcare_repeal_2_effect_success:0 "Deroga la resolución §Y$resolution_healthcare_2$§!."
+ 
+ resolution_healthcare_2:0 "Protocolos médicos de androides"
+ resolution_healthcare_2_desc:0 "La integración de protocolos básicos de primeros auxilios en todas las unidades reducirá su productividad pero aumentará enormemente las capacidades de nuestro sistema de salud."
+
+ resolution_healthcare_repeal_1:0 "§RDerogar $resolution_healthcare_1$§!"
+ resolution_healthcare_repeal_1_desc:0 "Todo el mundo tiene que cuidar de sí mismo. La industria de la salud debe seguir siendo un sector privado y rentable."
+ resolution_healthcare_repeal_1_effect_success:0 "Deroga la resolución §Y$resolution_healthcare_1$§!."
+
+ resolution_healthcare_1:0 "Incrementar el gasto en salud"
+ resolution_healthcare_1_desc:0 "Gastar una parte de su riqueza en atención médica para nuestros ciudadanos beneficiará a la economía y aumentará su riqueza en general."
+
+ resolution_category_mischief:0 "Malas Intenciones"
+ 
+ resolution_mischief_repeal_6:0 "§RDerogar $resolution_mischief_6$§!"
+ resolution_mischief_repeal_6_desc:0 "$resolution_mischief_repeal_1_desc$"
+ resolution_mischief_repeal_6_effect_success:0 "Deroga la resolución §Y$resolution_mischief_6$§!."
+ 
+ resolution_mischief_6:0 "Integrar sindicatos criminales"
+ resolution_mischief_6_desc:0 "Si no puedes vencerlos, únete a ellos. Haremos un trato con las familias más poderosas para integrarlas al gobierno."
+
+ resolution_mischief_repeal_5:0 "§RDerogar $resolution_mischief_5$§!"
+ resolution_mischief_repeal_5_desc:0 "$resolution_mischief_repeal_1_desc$"
+ resolution_mischief_repeal_5_effect_success:0 "Deroga la resolución §Y$resolution_mischief_5$§!."
+
+ resolution_mischief_5:0 "Negociar con los señores del crimen"
+ resolution_mischief_5_desc:0 "Podemos gobernar nuestro imperio, pero los planetas individuales están gobernados de facto por corporaciones, señores de la guerra o sindicatos criminales. Para que todo siga funcionando, tenemos que llegar a un acuerdo."
+
+ resolution_mischief_repeal_4:0 "§RDerogar $resolution_mischief_4$§!"
+ resolution_mischief_repeal_4_desc:0 "$resolution_mischief_repeal_1_desc$"
+ resolution_mischief_repeal_4_effect_success:0 "Deroga la resolución §Y$resolution_mischief_4$§!."
+ 
+ resolution_mischief_4:0 "Incitando al conflicto"
+ resolution_mischief_4_desc:0 "Razones desconocidas han provocado que el crimen y las muertes relacionadas con el crimen se disparen. La población está armada y es peligrosa. La única forma de detener una revolución es ponerlos uno contra el otro."
+
+ resolution_mischief_repeal_3:0 "§RDerogar $resolution_mischief_3$§!"
+ resolution_mischief_repeal_3_desc:0 "$resolution_mischief_repeal_1_desc$"
+ resolution_mischief_repeal_3_effect_success:0 "Deroga la resolución §Y$resolution_mischief_3$§!."
+ 
+ resolution_mischief_3:0 "Reducir el gasto educativo"
+ resolution_mischief_3_desc:0 "Una gran parte de nuestra población está cada vez más descontenta con el gobierno. La única forma de conservar sus votos es mantenerlos sin educación, incluso si algunos de ellos podrían convertirse en delincuentes debido a la falta de oportunidades laborales."
+
+ resolution_mischief_repeal_2:0 "§RDerogar $resolution_mischief_2$§!"
+ resolution_mischief_repeal_2_desc:0 "$resolution_mischief_repeal_1_desc$"
+ 
+ resolution_mischief_2:0 "Incrementar la desigualdad de la riqueza"
+ resolution_mischief_2_desc:0 "Al aumentar aún más la desigualdad de la riqueza y financiar a los ricos, ayudamos a todos, según nuestra teoría de la economía del goteo. Por supuesto, los pobres pueden no verlo de esa manera."
+ resolution_mischief_repeal_2_effect_success:0 "Deroga la resolución §Y$resolution_mischief_2$§!."
+
+ resolution_mischief_repeal_1:0 "§RDerogar $resolution_mischief_1$§!"
+ resolution_mischief_repeal_1_desc:0 "Ninguna cantidad de dinero justifica el aumento del crimen y la pobreza."
+ resolution_mischief_repeal_1_effect_success:0 "Deroga la resolución §Y$resolution_mischief_1$§!."
+
+ resolution_mischief_1:0 "Subsidio a la riqueza"
+ resolution_mischief_1_desc:0 "La transferencia de riqueza adicional hacia nuestras corporaciones y líderes debería impulsar la economía."
+
+ resolution_category_discovery_archeology:0 "Curiosidad sin fronteras"
+ 
+ resolution_discovery_archeology_repeal_6:0 "§RDerogar $resolution_discovery_archeology_6$§!"
+ resolution_discovery_archeology_repeal_6_desc:0 "$resolution_discovery_archeology_repeal_1_desc$"
+ resolution_discovery_archeology_repeal_6_effect_success:0 "Deroga la resolución §Y$resolution_discovery_archeology_6$§!."
+ 
+ resolution_discovery_archeology_6:0 "Iniciativa Atlantis"
+ resolution_discovery_archeology_6_desc:0 "Al explorar territorios desconocidos, no consideraremos los reclamos de otros imperios."
+
+ resolution_discovery_archeology_repeal_5:0 "§RRepeal$resolution_discovery_archeology_5$§!"
+ resolution_discovery_archeology_repeal_5_desc:0 "$resolution_discovery_archeology_repeal_1_desc$"
+ resolution_discovery_archeology_repeal_5_effect_success:0 "Deroga la resolución §Y$resolution_discovery_archeology_5$§!."
+
+ resolution_discovery_archeology_5:0 "Academia de Arqueología Galáctica"
+ resolution_discovery_archeology_5_desc:0 "Los exploradores bien capacitados lograrán resultados significativamente mejores."
+
+ resolution_discovery_archeology_repeal_4:0 "§RDerogar $resolution_discovery_archeology_4$§!"
+ resolution_discovery_archeology_repeal_4_desc:0 "$resolution_discovery_archeology_repeal_1_desc$"
+ resolution_discovery_archeology_repeal_4_effect_success:0 "Deroga la resolución §Y$resolution_discovery_archeology_4$§!."
+ 
+ resolution_discovery_archeology_4:0 "Base de datos de mapeo compartida"
+ resolution_discovery_archeology_4_desc:0 "Si compartimos nuestro conocimiento de la galaxia, todo el mundo se beneficia."
+
+ resolution_discovery_archeology_repeal_3:0 "§RDerogar $resolution_discovery_archeology_3$§!"
+ resolution_discovery_archeology_repeal_3_desc:0 "$resolution_discovery_archeology_repeal_1_desc$"
+ resolution_discovery_archeology_repeal_3_effect_success:0 "Deroga la resolución §Y$resolution_discovery_archeology_3$§!."
+ 
+ resolution_discovery_archeology_3:0 "Sensores avanzados de anomalías"
+ resolution_discovery_archeology_3_desc:0 "Necesitamos investigar fenómenos extraños para aprender de ellos."
+
+ resolution_discovery_archeology_repeal_2:0 "§RDerogar $resolution_discovery_archeology_2$§!"
+ resolution_discovery_archeology_repeal_2_desc:0 "$resolution_discovery_archeology_repeal_1_desc$"
+ resolution_discovery_archeology_repeal_2_effect_success:0 "Deroga la resolución §Y$resolution_discovery_archeology_2$§!."
+ 
+ resolution_discovery_archeology_2:0 "Subsidios para excavación"
+ resolution_discovery_archeology_2_desc:0 "Tenemos que aprender de la historia si queremos sobrevivir a los peligros de la galaxia."
+
+ resolution_discovery_archeology_repeal_1:0 "§RDerogar $resolution_discovery_archeology_1$§!"
+ resolution_discovery_archeology_repeal_1_desc:0 "Explorar la galaxia es una empresa importante, pero se debe respetar y evitar el territorio de los otros imperios."
+ resolution_discovery_archeology_repeal_1_effect_success:0 "Deroga la resolución §Y$resolution_discovery_archeology_1$§!."
+ 
+ resolution_discovery_archeology_1:0 "Subsidio a la cartografía"
+ resolution_discovery_archeology_1_desc:0 "La exploración de la galaxia ha llevado a la creación de la Comunidad Galáctica y es fundamental para la prosperidad y el progreso tecnológico de sus miembros."
+
+ resolution_ecology_repeal_6:0 "§RDerogar $resolution_ecology_6$§!"
+ resolution_ecology_repeal_6_desc:0 "$resolution_ecology_repeal_1_desc$"
+ resolution_ecology_repeal_6_effect_success:0 "Deroga la resolución §Y$resolution_ecology_6$§!."
+ 
+ resolution_ecology_6:0 "Ética medioambiental"
+ resolution_ecology_6_desc:0 "Al proteger el medio ambiente, protegemos a nuestra especie y a nuestros descendientes. La protección de nuestro mundo es una prioridad número uno."
+ 
+ resolution_galacticstudies_repeal_6:0 "§RDerogar $resolution_galacticstudies_6$§!"
+ resolution_galacticstudies_repeal_6_desc:0 "$resolution_galacticstudies_repeal_1_desc$"
+ resolution_galacticstudies_repeal_1_effect_success:0 "Deroga la resolución §Y$resolution_galacticstudies_6$§!."
+ 
+ resolution_galacticstudies_6:0 "Libertad de investigación"
+ resolution_galacticstudies_6_desc:0 "Al buscar nuevos conocimientos, nuestros científicos no van a tener que preocuparse por las opiniones o los derechos del individuo."
+ 
+ resolution_industry_repeal_6:0 "§RDerogar $resolution_industry_6$§!"
+ resolution_industry_repeal_6_desc:0 "$resolution_industry_repeal_1_desc$"
+ resolution_ecology_repeal_6_effect_success:0 "Deroga la resolución §Y$resolution_industry_6$§!."
+ 
+ resolution_industry_6:0 "Sobreexplotación aprobada por el Estado"
+ resolution_industry_6_desc:0 "Si queremos vencer a nuestra competencia, no podemos tener en cuenta a los locos ansiosos. Tenemos que explotar y procesar los recursos existentes con la máxima eficiencia."
+ 
+ resolution_commerce_repeal_6:0 "§RDerogar $resolution_commerce_6$§!"
+ resolution_commerce_repeal_6_desc:0 "$resolution_commerce_repeal_1_desc$"
+ resolution_commerce_repeal_6_effect_success:0 "Deroga la resolución §Y$resolution_commerce_6$§!."
+ 
+ resolution_commerce_6:0 "Reorganización economica"
+ resolution_commerce_6_desc:0 "No debemos permitir que nuestra economía se vea obstaculizada por medidas proteccionistas para los sectores débiles e ineficientes de la economía."
+ 
+ resolution_rulesofwar_repeal_6:0 "§RDerogar $resolution_rulesofwar_6$§!"
+ resolution_rulesofwar_repeal_6_desc:0 "$resolution_rulesofwar_repeal_1_desc$"
+ resolution_commerce_repeal_6_effect_success:0 "Deroga la resolución §Y$resolution_rulesofwar_6$§!."
+ 
+ resolution_rulesofwar_6:0 "Desarme absoluto"
+ resolution_rulesofwar_6_desc:0 "Debemos tomar medidas drásticas para persuadir a todos los miembros de la comunidad galáctica de que se desarmen." 
+ 
+ resolution_mutualdefense_repeal_6:0 "§RDerogar $resolution_mutualdefense_6$§!"
+ resolution_mutualdefense_repeal_6_desc:0 "$resolution_mutualdefense_repeal_1_desc$"
+ resolution_mutualdefense_repeal_6_effect_success:0 "Deroga la resolución §Y$resolution_mutualdefense_6$§!."
+ 
+ resolution_mutualdefense_6:0 "Belicismo"
+ resolution_mutualdefense_6_desc:0 "Todos los días, nuestros ciudadanos se ven expuestos a nuevos peligros: Leviatanes casi invencibles, naciones de robots asesinos y piratas sedientos de sangre. ¡No se puede negociar con tales enemigos!" 
+ 
+ resolution_greatergood_repeal_6:0 "§RDerogar $resolution_greatergood_6$§!"
+ resolution_greatergood_repeal_6_desc:0 "$resolution_greatergood_repeal_1_desc$"
+ resolution_greatergood_repeal_6_effect_success:0 "Deroga la resolución §Y$resolution_greatergood_6$§!."
+ 
+ resolution_greatergood_6:0 "Socialismo utópico"
+ resolution_greatergood_6_desc:0 "Todos los ciudadanos de la Comunidad Galáctica son iguales y tienen derecho a las riquezas que genera su trabajo." 
+ 
+ # Custom Sanctions
+ 
+ resolution_sanctions_tech_4:0 "Sanciones de investigación absolutas"
+ resolution_sanctions_tech_4_desc:0 "Se debe evitar que los imperios que no cumplan con la ley galáctica accedan a tecnologías potencialmente peligrosas."
+ 
+ resolution_sanctions_tech_repeal_4:0 "§RDerogar $resolution_sanctions_tech_4$§!"
+ resolution_sanctions_tech_repeal_4_desc:0 "$resolution_sanctions_tech_repeal_1_desc$"
+ resolution_sanctions_tech_repeal_4_effect_success:0 "Deroga la resolución §Y$resolution_sanctions_tech_4$§!."
+ 
+ 
+ resolution_sanctions_economic_4:0 "Sanciones económicas absolutas"
+ resolution_sanctions_economic_4_desc:0 "Tenemos que usar severos castigos para asegurarnos de que solo aquellos que acatan la ley galáctica prosperen económicamente."
+ 
+ resolution_sanctions_economic_repeal_4:0 "§RDerogar $resolution_sanctions_economic_4$§!"
+ resolution_sanctions_economic_repeal_4_desc:0 "$resolution_sanctions_economic_repeal_1_desc$"
+ resolution_sanctions_economic_repeal_4_effect_success:0 "Deroga la resolución §Y$resolution_sanctions_economic_4$§!."
+ 
+ 
+ resolution_sanctions_military_4:0 "Sanciones militares absolutas"
+ resolution_sanctions_military_4_desc:0 "Aquellos que no se rigen por la ley galáctica son una amenaza para la paz y nunca deben tener una flota digna de mención."
+ 
+ resolution_sanctions_military_repeal_4:0 "§RDerogar $resolution_sanctions_military_4$§!"
+ resolution_sanctions_military_repeal_4_desc:0 "$resolution_sanctions_military_repeal_1_desc$"
+ resolution_sanctions_military_repeal_4_effect_success:0 "Deroga la resolución §Y$resolution_sanctions_military_4$§!."
+
+ 
+ resolution_sanctions_administrative_4:0 "Sanciones administrativas absolutas"
+ resolution_sanctions_administrative_4_desc:0 "No cooperamos con imperios que no cumplen con la ley galáctica."
+ 
+ resolution_sanctions_administrative_repeal_4:0 "§RDerogar $resolution_sanctions_administrative_4$§!"
+ resolution_sanctions_administrative_repeal_4_desc:0 "$resolution_sanctions_administrative_repeal_1_desc$"
+ resolution_sanctions_administrative_repeal_4_effect_success:0 "Deroga la resolución §Y$resolution_sanctions_administrative_4$§!."
+
+ mod_job_medical_professional_add:0 "Profesionales médicos por planeta"
+ job_medical_professional:0 "Profesional médico"

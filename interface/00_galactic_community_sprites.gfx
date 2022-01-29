@@ -1,0 +1,20 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_resolution_discovery_archeology"
+		textureFile = "gfx/interface/icons/resolutions/resolution_discovery_archeology.dds"
+		noOfFrames = 1
+	}
+
+	spriteType = {
+		name = "GFX_resolution_mischief"
+		textureFile = "gfx/interface/icons/resolutions/resolution_mischief.dds"
+		noOfFrames = 1
+	}
+
+	spriteType = {
+		name = "GFX_resolution_healthcare"
+		textureFile = "gfx/interface/icons/resolutions/resolution_healthcare.dds"
+		noOfFrames = 1
+	}
+}

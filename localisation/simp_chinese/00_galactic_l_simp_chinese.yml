@@ -1,0 +1,216 @@
+﻿l_simp_chinese:
+ # Custom Resolutions
+
+ resolution_category_healthcare:0 "Galactic Health Organization"
+ 
+ resolution_healthcare_repeal_6:0 "§RRepeal $resolution_healthcare_6$§!"
+ resolution_healthcare_repeal_6_desc:0 "$resolution_healthcare_repeal_1_desc$"
+ resolution_healthcare_repeal_6_effect_success:0 "Repeals the §Y$resolution_healthcare_6$§! resolution."
+ 
+ resolution_healthcare_6:0 "Create the Galactic Health Organization"
+ resolution_healthcare_6_desc:0 "Creating an organization that monitors new diseases and helps the less fortunate empires will benefit everyone."
+
+ resolution_healthcare_repeal_5:0 "§RRepeal$resolution_healthcare_5$§!"
+ resolution_healthcare_repeal_5_desc:0 "$resolution_healthcare_repeal_1_desc$"
+ resolution_healthcare_repeal_5_effect_success:0 "Repeals the §Y$resolution_healthcare_5$§! resolution."
+
+ resolution_healthcare_5:0 "Medical Clones"
+ resolution_healthcare_5_desc:0 "We can use cloning technology to create perfectly matching organs for every recipient, greatly reducing the risk of organ transplants."
+
+ resolution_healthcare_repeal_4:0 "§RRepeal $resolution_healthcare_4$§!"
+ resolution_healthcare_repeal_4_desc:0 "$resolution_healthcare_repeal_1_desc$"
+ resolution_healthcare_repeal_4_effect_success:0 "Repeals the §Y$resolution_healthcare_4$§! resolution."
+ 
+ resolution_healthcare_4:0 "Adopt Hypospray Technology"
+ resolution_healthcare_4_desc:0 "The new Hypospray technology, while more expensive than traditional needles, can be used to deliver injections and vaccines through clothing and without risk of cross contamination."
+
+ resolution_healthcare_repeal_3:0 "§RRepeal $resolution_healthcare_3$§!"
+ resolution_healthcare_repeal_3_desc:0 "$resolution_healthcare_repeal_1_desc$"
+ resolution_healthcare_repeal_3_effect_success:0 "Repeals the §Y$resolution_healthcare_3$§! resolution."
+ 
+ resolution_healthcare_3:0 "Mandatory Healthcare Insurance"
+ resolution_healthcare_3_desc:0 "Everyone needs to be eligible to receive treatment, thus everyone needs to have insurance."
+
+ resolution_healthcare_repeal_2:0 "§RRepeal $resolution_healthcare_2$§!"
+ resolution_healthcare_repeal_2_desc:0 "$resolution_healthcare_repeal_1_desc$"
+ 
+ resolution_healthcare_2:0 "Incentivise Employee Healthcare Perks"
+ resolution_healthcare_2_desc:0 "If we grant tax breaks to employers that care about their employees, we will profit in the long run."
+
+ resolution_healthcare_repeal_1:0 "§RRepeal $resolution_healthcare_1$§!"
+ resolution_healthcare_repeal_1_desc:0 "Everyone has to look out for themselves. The healthcare industry should remain a profitable and private sector."
+ resolution_healthcare_repeal_1_effect_success:0 "Repeals the §Y$resolution_healthcare_1$§! resolution."
+
+ resolution_healthcare_1:0 "Increase healthcare spending"
+ resolution_healthcare_1_desc:0 "Spending a part of our wealth on healthcare for our citizens will benefit the economy and increase our overall wealth."
+
+ resolution_category_mischief:0 "Malicious Intent"
+ 
+ resolution_mischief_repeal_6:0 "§RRepeal $resolution_mischief_6$§!"
+ resolution_mischief_repeal_6_desc:0 "$resolution_mischief_repeal_1_desc$"
+ resolution_mischief_repeal_6_effect_success:0 "Repeals the §Y$resolution_mischief_6$§! resolution."
+ 
+ resolution_mischief_6:0 "Integrate Crime Syndicates"
+ resolution_mischief_6_desc:0 "If you can't beat them, join them. We will make a deal with the most powerful families to integrate them into the government."
+
+ resolution_mischief_repeal_5:0 "§RRepeal$resolution_mischief_5$§!"
+ resolution_mischief_repeal_5_desc:0 "$resolution_mischief_repeal_1_desc$"
+ resolution_mischief_repeal_5_effect_success:0 "Repeals the §Y$resolution_mischief_5$§! resolution."
+
+ resolution_mischief_5:0 "Negotiate with Crime Lords"
+ resolution_mischief_5_desc:0 "We may rule our empire, but the individual planets are de facto ruled by Corporations, Warlords or Crime Syndicates. To keep things running we have to strike a deal."
+
+ resolution_mischief_repeal_4:0 "§RRepeal $resolution_mischief_4$§!"
+ resolution_mischief_repeal_4_desc:0 "$resolution_mischief_repeal_1_desc$"
+ resolution_mischief_repeal_4_effect_success:0 "Repeals the §Y$resolution_mischief_4$§! resolution."
+ 
+ resolution_mischief_4:0 "Stirring up Conflict "
+ resolution_mischief_4_desc:0 "Unknown Reasons have caused crime and crime related deaths to skyrocket. The population is armed and dangerous. The only way to stop a revolution is to turn them against each other."
+
+ resolution_mischief_repeal_3:0 "§RRepeal $resolution_mischief_3$§!"
+ resolution_mischief_repeal_3_desc:0 "$resolution_mischief_repeal_1_desc$"
+ resolution_mischief_repeal_3_effect_success:0 "Repeals the §Y$resolution_mischief_3$§! resolution."
+ 
+ resolution_mischief_3:0 "Decrease Educational Spending"
+ resolution_mischief_3_desc:0 "Increasingly large parts of our population are unhappy with the government. The only way to keep their votes is to keep them uneducated, even if some of them might turn into criminals due to the lack of job opportunities."
+
+ resolution_mischief_repeal_2:0 "§RRepeal $resolution_mischief_2$§!"
+ resolution_mischief_repeal_2_desc:0 "$resolution_mischief_repeal_1_desc$"
+ 
+ resolution_mischief_2:0 "Increase Wealth Inequality"
+ resolution_mischief_2_desc:0 "By further increasing the wealth inequality and funding the rich we help everyone, according to our theory of trickle down economics. Of course, the poor may not see it that way."
+
+ resolution_mischief_repeal_1:0 "§RRepeal $resolution_mischief_1$§!"
+ resolution_mischief_repeal_1_desc:0 "No amount of money justifies the increase in crime and poverty."
+ resolution_mischief_repeal_1_effect_success:0 "Repeals the §Y$resolution_mischief_1$§! resolution."
+
+ resolution_mischief_1:0 "Shift Wealth"
+ resolution_mischief_1_desc:0 "Shifting additional wealth towards our corporations and leaders should boost the economy."
+
+ resolution_category_discovery_archeology:0 "Curiosity without borders"
+ 
+ resolution_discovery_archeology_repeal_6:0 "§RRepeal $resolution_discovery_archeology_6$§!"
+ resolution_discovery_archeology_repeal_6_desc:0 "$resolution_discovery_archeology_repeal_1_desc$"
+ resolution_discovery_archeology_repeal_6_effect_success:0 "Repeals the §Y$resolution_discovery_archeology_6$§! resolution."
+ 
+ resolution_discovery_archeology_6:0 "Atlantis Initiative"
+ resolution_discovery_archeology_6_desc:0 "When exploring unknown territories, we will not consider other empire's claims."
+
+ resolution_discovery_archeology_repeal_5:0 "§RRepeal$resolution_discovery_archeology_5$§!"
+ resolution_discovery_archeology_repeal_5_desc:0 "$resolution_discovery_archeology_repeal_1_desc$"
+ resolution_discovery_archeology_repeal_5_effect_success:0 "Repeals the §Y$resolution_discovery_archeology_5$§! resolution."
+
+ resolution_discovery_archeology_5:0 "Galactic Archeology Academy"
+ resolution_discovery_archeology_5_desc:0 "Well-trained explorers will achieve significantly better results."
+
+ resolution_discovery_archeology_repeal_4:0 "§RRepeal $resolution_discovery_archeology_4$§!"
+ resolution_discovery_archeology_repeal_4_desc:0 "$resolution_discovery_archeology_repeal_1_desc$"
+ resolution_discovery_archeology_repeal_4_effect_success:0 "Repeals the §Y$resolution_discovery_archeology_4$§! resolution."
+ 
+ resolution_discovery_archeology_4:0 "Shared Mapping Database"
+ resolution_discovery_archeology_4_desc:0 "If we share our knowledge of the galaxy, everyone benefits."
+
+ resolution_discovery_archeology_repeal_3:0 "§RRepeal $resolution_discovery_archeology_3$§!"
+ resolution_discovery_archeology_repeal_3_desc:0 "$resolution_discovery_archeology_repeal_1_desc$"
+ resolution_discovery_archeology_repeal_3_effect_success:0 "Repeals the §Y$resolution_discovery_archeology_3$§! resolution."
+ 
+ resolution_discovery_archeology_3:0 "Advanced Anomaly Sensors"
+ resolution_discovery_archeology_3_desc:0 "We need to investigate strange phenomenons to learn from them."
+
+ resolution_discovery_archeology_repeal_2:0 "§RRepeal $resolution_discovery_archeology_2$§!"
+ resolution_discovery_archeology_repeal_2_desc:0 "$resolution_discovery_archeology_repeal_1_desc$"
+ 
+ resolution_discovery_archeology_2:0 "Excavation Grants"
+ resolution_discovery_archeology_2_desc:0 "We have to learn from history if we want to survive the dangers of the galaxy."
+
+ resolution_discovery_archeology_repeal_1:0 "§RRepeal $resolution_discovery_archeology_1$§!"
+ resolution_discovery_archeology_repeal_1_desc:0 "Exploring the galaxy is an important undertaking, but the territory of the other realms must be respected and avoided."
+ resolution_discovery_archeology_repeal_1_effect_success:0 "Repeals the §Y$resolution_discovery_archeology_1$§! resolution."
+ 
+ resolution_discovery_archeology_1:0 "Cartography Grants"
+ resolution_discovery_archeology_1_desc:0 "Exploring the galaxy has led to the creation of the galactic community and is fundamental to the prosperity and technological progress of its members."
+
+ resolution_ecology_repeal_6:0 "§RRepeal $resolution_ecology_6$§!"
+ resolution_ecology_repeal_6_desc:0 "$resolution_ecology_repeal_1_desc$"
+ resolution_ecology_repeal_6_effect_success:0 "Repeals the §Y$resolution_ecology_6$§! resolution."
+ 
+ resolution_ecology_6:0 "Environmental Ethics"
+ resolution_ecology_6_desc:0 "By protecting the environment, we protect our species and our descendants. Protecting our worlds is a number one priority."
+ 
+ resolution_galacticstudies_repeal_6:0 "§RRepeal $resolution_galacticstudies_6$§!"
+ resolution_galacticstudies_repeal_6_desc:0 "$resolution_galacticstudies_repeal_1_desc$"
+ resolution_galacticstudies_repeal_1_effect_success:0 "Repeals the §Y$resolution_galacticstudies_6$§! resolution."
+ 
+ resolution_galacticstudies_6:0 "Unrestricted Freedom of Research"
+ resolution_galacticstudies_6_desc:0 "When searching for new insights, our scientists must not have to worry about the opinions or rights of the individual."
+ 
+ resolution_industry_repeal_6:0 "§RRepeal $resolution_industry_6$§!"
+ resolution_industry_repeal_6_desc:0 "$resolution_industry_repeal_1_desc$"
+ resolution_ecology_repeal_6_effect_success:0 "Repeals the §Y$resolution_industry_6$§! resolution."
+ 
+ resolution_industry_6:0 "State-Approved Overexploitation"
+ resolution_industry_6_desc:0 "If we want to prevail against our competition, we can take no account of anxious lunatics. We have to exploit and process the existing resources with maximum efficiency."
+ 
+ resolution_commerce_repeal_6:0 "§RRepeal $resolution_commerce_6$§!"
+ resolution_commerce_repeal_6_desc:0 "$resolution_commerce_repeal_1_desc$"
+ resolution_commerce_repeal_6_effect_success:0 "Repeals the §Y$resolution_commerce_6$§! resolution."
+ 
+ resolution_commerce_6:0 "Neo-Liberal Reorganization"
+ resolution_commerce_6_desc:0 "We must not allow our economy to be held back by protection measures for the weak and inept sectors of the economy."
+ 
+ resolution_rulesofwar_repeal_6:0 "§RRepeal $resolution_rulesofwar_6$§!"
+ resolution_rulesofwar_repeal_6_desc:0 "$resolution_rulesofwar_repeal_1_desc$"
+ resolution_commerce_repeal_6_effect_success:0 "Repeals the §Y$resolution_rulesofwar_6$§! resolution."
+ 
+ resolution_rulesofwar_6:0 "Absolute Disarmament"
+ resolution_rulesofwar_6_desc:0 "Drastic measures must be taken to persuade all members of the galactic community to disarm." 
+ 
+ resolution_mutualdefense_repeal_6:0 "§RRepeal $resolution_mutualdefense_6$§!"
+ resolution_mutualdefense_repeal_6_desc:0 "$resolution_mutualdefense_repeal_1_desc$"
+ resolution_mutualdefense_repeal_6_effect_success:0 "Repeals the §Y$resolution_mutualdefense_6$§! resolution."
+ 
+ resolution_mutualdefense_6:0 "Bellicism"
+ resolution_mutualdefense_6_desc:0 "Every day our citizens see themselves exposed to new dangers - almost invincible Leviathans, nations of revolting killer robots and bloodthirsty pirates. You can't negotiate with such enemies!" 
+ 
+ resolution_greatergood_repeal_6:0 "§RRepeal $resolution_greatergood_6$§!"
+ resolution_greatergood_repeal_6_desc:0 "$resolution_greatergood_repeal_1_desc$"
+ resolution_greatergood_repeal_6_effect_success:0 "Repeals the §Y$resolution_greatergood_6$§! resolution."
+ 
+ resolution_greatergood_6:0 "Utopian socialism"
+ resolution_greatergood_6_desc:0 "All citizens of the galactic community are equal and are entitled to the riches that their work generates." 
+ 
+ # Custom Sanctions
+ 
+ resolution_sanctions_tech_4:0 "Absolute Research sanctions"
+ resolution_sanctions_tech_4_desc:0 "Empires that do not comply with galactic law must be prevented from accessing potentially dangerous technologies."
+ 
+ resolution_sanctions_tech_repeal_4:0 "§RRepeal $resolution_sanctions_tech_4$§!"
+ resolution_sanctions_tech_repeal_4_desc:0 "$resolution_sanctions_tech_repeal_1_desc$"
+ resolution_sanctions_tech_repeal_4_effect_success:0 "Repeals the §Y$resolution_sanctions_tech_4$§!"
+ 
+ 
+ resolution_sanctions_economic_4:0 "Absolute Economic sanctions"
+ resolution_sanctions_economic_4_desc:0 "We have to use harsh punishments to ensure that only those that abide by galactic law thrive economically."
+ 
+ resolution_sanctions_economic_repeal_4:0 "§RRepeal $resolution_sanctions_economic_4$§!"
+ resolution_sanctions_economic_repeal_4_desc:0 "$resolution_sanctions_economic_repeal_1_desc$"
+ resolution_sanctions_economic_repeal_4_effect_success:0 "Repeals the §Y$resolution_sanctions_economic_4$§! resolution."
+ 
+ 
+ resolution_sanctions_military_4:0 "Absolute Military sanctions"
+ resolution_sanctions_military_4_desc:0 "Those who do not abide by galactic law are a threat to peace and must never have a noteworthy fleet."
+ 
+ resolution_sanctions_military_repeal_4:0 "§RRepeal $resolution_sanctions_military_4$§!"
+ resolution_sanctions_military_repeal_4_desc:0 "$resolution_sanctions_military_repeal_1_desc$"
+ resolution_sanctions_military_repeal_4_effect_success:0 "Repeals the §Y$resolution_sanctions_military_4$§! resolution."
+
+ 
+ resolution_sanctions_administrative_4:0 "Absolute Administrative sanctions"
+ resolution_sanctions_administrative_4_desc:0 "We do not cooperate with empires that do not comply with galactic law."
+ 
+ resolution_sanctions_administrative_repeal_4:0 "§RRepeal $resolution_sanctions_administrative_4$§!"
+ resolution_sanctions_administrative_repeal_4_desc:0 "$resolution_sanctions_administrative_repeal_1_desc$"
+ resolution_sanctions_administrative_repeal_4_effect_success:0 "Repeals the §Y$resolution_sanctions_administrative_4$§! resolution."
+
+ mod_job_medical_professional_add:0 "Medical Professionals per planet"
+ job_medical_professional:0 "Medical Professional"
