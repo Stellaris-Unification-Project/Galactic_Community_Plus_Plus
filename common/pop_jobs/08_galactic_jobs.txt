@@ -14,8 +14,9 @@ medical_professional = {
 		is_being_assimilated = no
 	}
 
+	possible_precalc = can_fill_ruler_job
+
 	possible = {
-		ruler_job_check_trigger = yes
 		NOT = { has_ethic = ethic_gestalt_consciousness }
 	}
 
